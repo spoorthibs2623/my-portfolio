@@ -28,3 +28,10 @@ def contact():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+
+
+# git add requirements.txt
+# git commit -m "Fix pywin32 installation for Render deployment"
+# git push origin main
