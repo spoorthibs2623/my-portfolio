@@ -32,6 +32,3 @@ if __name__ == '__main__':
 
 
 
-# git add requirements.txt
-# git commit -m "Fix pywin32 installation for Render deployment"
-# git push origin main
